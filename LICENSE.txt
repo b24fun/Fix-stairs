@@ -1,0 +1,53 @@
+b24fun's License v2.0
+
+Copyright (c) 2026 b24fun
+
+All rights reserved.
+
+Ownership:
+This content is the exclusive intellectual property of the author (b24fun).
+All ownership rights are retained by the author.
+
+This license grants limited permission to use the content under the conditions below. No ownership is transferred.
+
+Definitions:
+   - “content” refers to all datapacks, resource packs, texture packs, modpacks, code, assets, documentation, and any other materials created and released by the author.
+
+You are permitted to:
+1. Use the content for personal gameplay.
+2. Include the unmodified content in:
+   - Modpacks
+   - Private servers
+   - Public servers
+   Provided that ALL of the following conditions are met:
+      a. The content must remain completely unmodified.
+      b. The content must not be uploaded, shared, or distributed on its own; it may only be included as part of a modpack or server package.
+      c. Proper credit must be clearly visible and accessible to users.
+      d. The modpack or server must not charge money specifically for access to this content.
+      e. The content must not be placed behind a paywall.
+
+You are NOT permitted to:
+1. Reupload, mirror, or redistribute this content on any website, platform, or service other than the original official download page, except as allowed in Section "You are permitted to".
+2. Modify, decompile, reverse engineer, or create derivative works and distribute them.
+3. Use this content for any commercial purpose without explicit written permission from the author.
+4. Sell, sublicense, rent, or otherwise monetize this content.
+5. Claim ownership or authorship of this content.
+6. Use this content, in whole or in part, to train, fine-tune, or develop artificial intelligence systems, machine learning models, neural networks, or any generative systems.
+
+Credits:
+Credit must include:
+   - The name of the content
+   - The author (b24fun)
+   - A link to the original official download page
+Credit must be visible and accessible to users of the modpack, private server and public server.
+
+Termination:
+Any violation of this license automatically terminates the permissions granted herein. Upon termination, the user must immediately cease all use and distribution of the content.
+
+Special Permissions:
+The author may grant written permission to bypass one or more of the restrictions in this license on a case-by-case basis.
+Such permissions are granted and revoked solely at the discretion of the author and must be documented in writing.
+
+This license does not grant any rights other than those explicitly stated herein.
+This content is provided "as is", without warranty of any kind.
+The author is not responsible for any damages arising from its use.
